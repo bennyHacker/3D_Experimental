@@ -1,5 +1,5 @@
 # 3D_Experimental
-NSFW WARNING! The player model may not be safe for work environment
+**NSFW WARNING!** The player model may not be safe for work environment
 
 (Nothing explicit. The player model is as nude as a mannequin)
 
