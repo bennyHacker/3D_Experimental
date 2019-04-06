@@ -1,7 +1,7 @@
 # 3D_Experimental
 **NSFW WARNING!** The player model may not be safe for work environment
 
-(Nothing explicit. The player model is as nude as a mannequin)
+(Nothing explicit. The player looks like a naked mannequin)
 
 Thank you for checking out my project! If you thought a 3D game engine in Processing is a 
 bad idea, you're probably right! I was surprised to see this running at a favourable speed.
