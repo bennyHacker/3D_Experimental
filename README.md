@@ -8,7 +8,7 @@ bad idea, you're probably right! I was surprised to see this running at a favour
 
 This is my latest experiment for a 3D game engine in Processing.
 
-Aspects of this engine are influenced by early 3D engines, such as Source and Doom engine
+Aspects of this engine are influenced by early 3D engines, such as Source, Mario 64 and Doom engine
 
 I hope I (and maybe even the community) can expand on this idea and make the code less ugly
 
