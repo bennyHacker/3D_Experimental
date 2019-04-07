@@ -43,3 +43,10 @@ current bugs / features:
 - no way to find positions of limbs of player for collision reference
 - the game speeds up player movement when frames drop to make the game more playable. This however causes
 issues when the frameRate is incredibly low (est. < 15 fps)
+
+Fixes and changes:
+
+- fixed player movement
+- set default framerate to 50 instead of 45
+- made world size more adjustable
+- extended sky sphere
