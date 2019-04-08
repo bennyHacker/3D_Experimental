@@ -52,3 +52,4 @@ Fixes and changes:
 - set default framerate to 50 instead of 45
 - made world size more adjustable
 - extended sky sphere
+- added method of obtaining collision points from animation model (limbPosition array under Animation tab)
