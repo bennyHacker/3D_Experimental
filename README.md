@@ -43,6 +43,8 @@ current bugs / features:
 - no way to find positions of limbs of player for collision reference
 - the game speeds up player movement when frames drop to make the game more playable. This however causes
 issues when the frameRate is incredibly low (est. < 15 fps)
+- quads are graphically represented by 4 triangle fans, while the collision for a quad only consists of 2 triangles
+meaning that the shape does not always reflect the actual collision especially when quads are uite warped
 
 Fixes and changes:
 
