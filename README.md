@@ -40,7 +40,6 @@ current bugs / features:
 - currently no method of importing object files as solid objects
 - object and animation files currently rely on txt. format and can be easily edited
 - no reliable way to make animations or objects without custom processing sketch (which I can upload if inquired)
-- no way to find positions of limbs of player for collision reference
 - the game speeds up player movement when frames drop to make the game more playable. This however causes
 issues when the frameRate is incredibly low (est. < 15 fps)
 - quads are graphically represented by 4 triangle fans, while the collision for a quad only consists of 2 triangles
