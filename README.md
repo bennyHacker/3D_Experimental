@@ -36,7 +36,6 @@ current bugs / features:
 - the sky is one HDRI texture, the sun does not actually 'set' or 'rise'
 - animations aren't particularily good
 - no crouch walking animation (yet)
-- no NPCS (although possible)
 - currently no method of importing object files as solid objects
 - object and animation files currently rely on txt. format and can be easily edited
 - no reliable way to make animations or objects without custom processing sketch (which I can upload if inquired)
@@ -52,3 +51,4 @@ Fixes and changes:
 - made world size more adjustable
 - extended sky sphere
 - added method of obtaining collision points from animation model (limbPosition array under Animation tab)
+- added an NPC with super simple AI
