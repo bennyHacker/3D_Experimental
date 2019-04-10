@@ -18,6 +18,8 @@ Controls:
 
 - WASD to move
 - mouse controls camera
+- press left mouse button to slash
+- press right mouse button to kick
 - press CONTROL to toggle crouch
 - hold SHIFT to sprint
 - press 'g' to toggle godmode (on/off)
