@@ -3,6 +3,8 @@
 
 (Nothing explicit. The player looks like a naked mannequin)
 
+Contains **Graphic Violence**
+
 Thank you for checking out my project! If you thought a 3D game engine in Processing is a 
 bad idea, you're probably right! I was surprised to see this running at a favourable speed.
 
@@ -46,8 +48,9 @@ meaning that the shape does not always reflect the actual collision especially w
 
 Fixes and changes:
 
-- fixed player movement
-- set default framerate to 50 instead of 45
+- added combat
+- tidied up a little
+- set default framerate to 45
 - made world size more adjustable
 - extended sky sphere
 - added method of obtaining collision points from animation model (limbPosition array under Animation tab)
